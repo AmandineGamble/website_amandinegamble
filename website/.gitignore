@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+/public/
+jsconfig.json
+node_modules/
+
+.DS_Store
+Thumbs.db
+.hugo_build.lock
