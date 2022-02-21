@@ -16,7 +16,7 @@ tags:
 - Pasteurella multocida
 - Movement ecology
 
-title: "Infectious agent ecology in colonial species"
+title: "Ecological drivers of epidemiological dynamics in colonial species"
 
 url_code: ""
 url_pdf: ""
@@ -28,7 +28,7 @@ Colonial species — those forming colonies to breed, like bats, seabirds and se
 
 In the context of the [ECOPATH](https://institut-polaire.fr/en/programmes_soutenus/circulation-of-directly-transmitted-and-tick-borne-infectious-agents-in-sub-antarctic-and-antarctic-colonial-vertebrate-populations-surveillance-understanding-and-management-implications/) project (co-led with [Thierry Boulinier](https://thierryboulinier.wordpress.com/), National Center for Scientific Research, France), my collaborators and I study the dynamics of infectious agents in seabirds and marine mammals of subantarctic islands. In particular, we investigate the causes and consequences of recurrent avian cholera outbreaks in albatrosses and penguins on Amsterdam Island. In collaboration with conservation partners, we work at identifying mitigation measured against pathogens threatening endangered seabird populations.
 
-<a href="https://institut-polaire.fr/en/programmes_soutenus/circulation-of-directly-transmitted-and-tick-borne-infectious-agents-in-sub-antarctic-and-antarctic-colonial-vertebrate-populations-surveillance-understanding-and-management-implications/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/ECOPATH.png" alt="BatOneHealth" style="width:200px;"></a>
+<a href="https://institut-polaire.fr/en/programmes_soutenus/circulation-of-directly-transmitted-and-tick-borne-infectious-agents-in-sub-antarctic-and-antarctic-colonial-vertebrate-populations-surveillance-understanding-and-management-implications/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/ECOPATH.png" alt="ECOPATH" style="width:200px;"></a>
 
 <!-- Table with pictures -->
 <style>

@@ -4,7 +4,7 @@ date: "2019-03-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Scanning electron microscopy picture of SARS-CoV-2 budding from an infected cell [&copy; NIAID Rocky Mountain Laboratories](https://www.flickr.com/photos/niaid/albums/72157712914621487/with/49557785757/)
+  caption: Scanning electron microscopy picture of SARS-CoV-2 budding from an infected cell &copy; [NIAID Rocky Mountain Laboratories](https://www.flickr.com/photos/niaid/albums/72157712914621487/with/49557785757/)
   focal_point: Smart
 
 summary: 

@@ -85,25 +85,24 @@ ______
 
 **University of California Los Angeles** (Los Angeles, CA, USA)
 
-<i>Statistical Tools & Concepts for Molecular Biologists</i> &middot; Winter 2022
+<i>Statistical concepts and tools for microbiologists</i> (MOL BIO 254D) &middot; Winter 2022 (on <a href="https://bruinlearn.ucla.edu/courses/110835" target="_blank" rel="noopener noreferrer">BruinLearn</a>)
 
 <i><a href="https://qcb.ucla.edu/collaboratory/workshops/w12-intro-to-matlab" target="_blank" rel="noopener noreferrer">Introduction to MATLAB</a></i> &middot; QCBio Workshop &middot; Fall 2021, Winter 2022
 
-Overview of statistics for ecology and behavior &middot; Course design for Introduction to <i>Ecology & Behavior</i> &middot; 2021
+Overview of statistics for ecology and behavior &middot; Course design for <i> Introduction to Ecology & Behavior</i> (EE BIOL 100/L) &middot; 2021
 
-Infectious diseases: how do they emerge and become pandemic? &middot; Guest lecture for <i>Biology & Social Justice</i> &middot; Summer 2020, Winter 2020
+Infectious diseases: how do they emerge and become pandemic? &middot; Guest lecture for <i>Biology & Social Justice</i> (EE BIOL 156) &middot; Summer 2020, Winter 2020
 
 ______
 
 **Montana State University** (Bozeman, MT, USA)
 
-Serological investigations in the time of COVID-19: insights from wildlife disease ecology and clinical studies &middot; Guest lecture for <i>Disease Ecology & Spillover</i> &middot; Fall 2020
+Serological investigations in the time of COVID-19: insights from wildlife disease ecology and clinical studies &middot; Guest lecture for <i>Disease Ecology & Spillover</i> (BIOM 460/MB 560) &middot; Fall 2020
 
-Using serology to infer eco-epidemiological processes in wild populations &middot; Guest lecture for <i>Disease Ecology & Spillover</i> &middot; Fall 2019
+Using serology to infer eco-epidemiological processes in wild populations (BIOM 460/MB 560) &middot; Guest lecture for <i>Disease Ecology & Spillover</i> &middot; Fall 2019
 
 ______
 
 **Independent workshops**
 
 Wildlife disease surveillance: epidemiology, ecology, and practical tools &middot; Workshop for various research and conservation partners &middot; Fall 2018
-

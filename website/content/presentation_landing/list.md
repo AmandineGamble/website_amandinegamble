@@ -97,9 +97,11 @@ Gamble et al. (2018). Diseases threatening polar seabirds: from immuno-ecology t
 
 Gamble et al. (2018). Diseases of albatrosses on Amsterdam Island: the interest of combining approaches. POLAR 2018, Switzerland
 
+Gamble et al. (2017). Opportunistic feeders as sentinels for the circulation of infectious agents in spatial contexts. Waterbird Society annual meeting, Iceland	
+
 Gamble et al. (2017). Optimization of sampling designs in eco-epidemiological studies based on antibody detection in sentinel species: the case of large gulls. 4<sup>th</sup> Young Natural History Scientists' meeting, France
 
-Gamble et al. (2017). Exposure of yellow-legged gulls to <i>Toxoplasma gondii</i> along the Western Mediterranean coasts: tales from a sentinel. Sf&eacute;cologie, France
+Gamble et al. (2016). Exposure of yellow-legged gulls to <i>Toxoplasma gondii</i> along the Western Mediterranean coasts: tales from a sentinel. Sf&eacute;cologie, France
 
 ______
 
@@ -123,13 +125,21 @@ Gamble et al. (2017). Optimization of sampling designs in eco-epidemiologic stud
 
 Gamble et al. (2017). Optimization of sampling designs in eco-epidemiologic studies based on the detection of antibodies in colonial vertebrates. EUropean Union for Bird RINGing Analytical Meeting, Spain
 
-Gamble et al. (2017). Opportunistic feeders as sentinels for the circulation of infectious agents in spatial contexts. Waterbird Society annual meeting, Iceland	
-
 Gamble et al. (2015). Influence de l'&eacute;tat nutritionnel apr&egrave;s un je&ucirc;ne prolong&eacute; sur l'efficacit&eacute; du voyage alimentaire chez le manchot royal. 2<sup>nd</sup> Colloque d'&Eacute;coPhysiologie Animale, France
 
 ______
 
 **Seminars**
+
+Gamble (2022). Muddy boots and mechanistic inference: integrated approaches for innovative solutions to infectious disease, Department of Public and Ecosystem Health, Cornell University, NY, USA 
+
+Gamble (2022). From muddy boots to mechanistic inference: advancing disease ecology through quantitative approaches, Department of Ecology and Evolutionary Biology, University of Connecticut, CT, USA (online)
+
+Gamble (2022). From muddy boots to mechanistic inference: modeling infectious diseases in lab and field systems. Institute for Modeling Collaboration and Innovation, University of Idaho, ID, USA (online)
+
+Gamble et al. (2022). A mechanistic model predicts the effect of exposure dose on disease development: an illustration with SARS-CoV-2 in mice. AIDS Institute, University of California Los Angeles, CA, USA (online) 
+
+Gamble (2022). Muddy boots and integrated models: finding innovative solutions to seabirds' infectious diseases with quantitative ecology. School of Natural Resources and the Environment, University of Arizona, AZ, USA (online)
 
 Gamble (2021). Investigating multi-host pathogen dynamics on Subantarctic islands: an open-sky laboratory. Institute of Ecology and Environmental Sciences, France (online)	
 
