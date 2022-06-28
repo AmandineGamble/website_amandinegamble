@@ -33,6 +33,7 @@ In the context of the [ECOPATH](https://institut-polaire.fr/en/programmes_souten
 <!-- Table with pictures -->
 <style>
 * { box-sizing: border-box; }
+.column17 { float: left; width: 17%; padding: 5px; }
 .column20 { float: left; width: 20%; padding: 5px; }
 .column25 { float: left; width: 25%; padding: 5px; }
 .column33 { float: left; width: 33%; padding: 5px; }
@@ -73,19 +74,24 @@ In the context of the [ECOPATH](https://institut-polaire.fr/en/programmes_souten
 **Main Funders**
 
 <div class="row">
-  <div class="column20">
+  <div class="column33">
     <a href="https://institut-polaire.fr/en/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/IPEV.png" alt="French Polar Institute"  style="width:150px;"></a>
   </div>
-  <div class="column20">
+  <div class="column33">
+    <a href="https://dplus.darwininitiative.org.uk/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/Darwin.png" alt="Darwin Initiative" style="width:150px;"></a>
+  </div>
+  <div class="column33">
     <a href="https://www.ceva-biovac-campus.com/en/Who-are-we/Ceva-Biovac" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/Ceva.png" alt="Ceva"  style="width:150px;"></a>
   </div>
-  <div class="column20">
+</div>
+<div class="row">
+  <div class="column33">
     <a href="https://reserve-australes.taaf.fr/en" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/RNN.png" alt="French National Nature Reserves"  style="width:150px;"></a>
   </div>
-  <div class="column20">
+  <div class="column33">
     <a href="https://www.falklands.gov.fk/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/FIG.png" alt="Falkland Island Government"  style="width:150px;"></a>
   </div>
-  <div class="column20">
+  <div class="column33">
     <a href="https://oreme.org/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/OREME.png" alt="OSU OREME"  style="width:150px;"></a>
   </div>
 </div>

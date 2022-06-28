@@ -115,7 +115,7 @@ ______
 
 **Peer-reviewed publications**
 
-(20) Ruiz-Aravena M.<sup>E</sup>, McKee C.<sup>E</sup>, <b>Gamble A.</b>, Lunn T., Morris A., Snedden C.E., Yinda K.C., Port J., Buchholz D.W., Yeo Y.Y., Faust C., Jax E., Dee L., Jones D., Kessler M., Falvo C., Crowley D., Bharti N., Brook C.E., Aguilar H.C., Peel A.J., Restif O., Schountz T., Parrish C.R., Gurley E.S., Lloyd-Smith J.O., Hudson P., Munster V.J. and Plowright R.K. (2021). <a href="../publication/202111_ruizaravena_et_al_2021_natrevmicro/">Ecology, evolution, and spillover of coronaviruses from bats.</a> <i><b>Nature Reviews Microbiology</i></b>, in press. 
+(20) Ruiz-Aravena M.<sup>E</sup>, McKee C.<sup>E</sup>, <b>Gamble A.</b>, Lunn T., Morris A., Snedden C.E., Yinda K.C., Port J., Buchholz D.W., Yeo Y.Y., Faust C., Jax E., Dee L., Jones D., Kessler M., Falvo C., Crowley D., Bharti N., Brook C.E., Aguilar H.C., Peel A.J., Restif O., Schountz T., Parrish C.R., Gurley E.S., Lloyd-Smith J.O., Hudson P., Munster V.J. and Plowright R.K. (2021). <a href="../publication/202111_ruizaravena_et_al_2021_natrevmicro/">Ecology, evolution, and spillover of coronaviruses from bats.</a> <i><b>Nature Reviews Microbiology</i></b> 20, 299-314. 
 
 (19) Ponchon A., <b>Gamble A.</b>, Ahtiainen I.V., Tornos J., Delord K., Barbraud C., Travis J.M.J., Weimerskirch H. and Boulinier T. (2021). <a href="../publication/202111_ponchon_et_al_2021_meps/">Similar at-sea behaviour but different habitat use between failed and successful breeding albatrosses.</a> <i><b>Marine Ecology Progress Series</i></b> 678, 183-196. 
 
@@ -139,7 +139,7 @@ ______
 
 (9) Jaeger A.<sup>E</sup>, <b>Gamble A.</b><sup>E</sup>, Lagadec E.<sup>E</sup>, Lebarbenchon C., Bourret V., Tornos J., Barbraud C., Delord K., Weimerskirch H., Thiebot J.-B., Boulinier T. and Tortosa P. (2019). <a href="../publication/202005_jaeger_et_al_2020_ecohealth/">Impact of Annual Bacterial Epizootics on Albatross Population on a Remote Island.</a> <i><b>EcoHealth</i></b> 17, 194-202. 
 
-(8) van Doremalen N.<sup>E</sup>, Bushmaker T.<sup>E</sup>, Morris D.H.<sup>E</sup>, Holbrook M.G., <b>Gamble A.</b>, Williamson B.N., Tamin A., Harcourt J.L., Thornburg N.J., Gerber S.I., Lloyd-Smith J.O., de Wit E. and Munster V.J. (2020). <a href="../publication/">Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1.</a> <i><b>New England Journal of Medicine</i></b> 382, 1564-1567. 
+(8) van Doremalen N.<sup>E</sup>, Bushmaker T.<sup>E</sup>, Morris D.H.<sup>E</sup>, Holbrook M.G., <b>Gamble A.</b>, Williamson B.N., Tamin A., Harcourt J.L., Thornburg N.J., Gerber S.I., Lloyd-Smith J.O., de Wit E. and Munster V.J. (2020). <a href="../publication/202003_vandoremalen_et_al_2020_nejm/">Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1.</a> <i><b>New England Journal of Medicine</i></b> 382, 1564-1567. 
 
 (7) <b>Gamble A.</b>, Bazire R., Delord K., Barbraud C., Jaeger A., Gantelet H., Thibault E., Lebarbenchon C., Lagadec E., Tortosa P., Weimerskirch H., Thiebot J.-B., Garnier R., Tornos J. and Boulinier T. (2019). <a href="../publication/202002_gamble_et_al_2020_jappe/">Predator and scavenger movements among and within endangered seabird colonies: opportunities for pathogen spread.</a> <i><b>Journal of Applied Ecology</i></b> 57, 367-378. 
 
@@ -154,7 +154,11 @@ ______
 (2) Bourret V., <b>Gamble A.</b>, Tornos J., Jaeger A., Delord K., Barbraud C., Tortosa P., Kada S., Thiebot J.-B., Thibault E., Gantelet H., Weimerskirch H., Garnier R. and Boulinier T. (2018). <a href="../publication/201801_bourret_et_al_2018_conslett/">Vaccination protects endangered albatross chicks against avian cholera.</a> <i><b>Conservation Letters</i></b> 11, e12443. 
 
 (1) Boulinier T., Kada S., Ponchon A., Dupraz M., Dietrich M., <b>Gamble A.</b>, Bourret V., Duriez O., Bazire R., Tornos J., Tveraa T., Chambert T., Garnier R. and McCoy K.D. (2016). <a href="../publication/201606_boulinier_et_al_2016_icb/">Migration, prospecting, dispersal? What host movement matters for infectious agent circulation?</a> <i><b>Integrative and Comparative Biology</i></b> 56, 330-342.
+______
 
+**Preprints**
+
+(1) Zhong J., Medvecky M., Tornos J., Clessin A., Gantelet H., Gamble A., Forde T. L.* & Boulinier T.* <a href="https://doi.org/10.1101/2022.06.23.497316" target="_blank" rel="noopener noreferrer">Genomic characterisation of a novel species of Erysipelothrix associated with mortalities among endangered seabirds.</a> <i><b>bioRxiv</i></b> 2022.06.23.497316. 
 ______
 
 **Technical reports**

@@ -15,6 +15,9 @@ education:
     year: 2015
 employment:
   courses:
+  - course: Research Fellow
+    institution: Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, UK
+    year: 2022-2024
   - course: Collaboratory Fellow
     institution: Institute for Computational and Quantitative Biosciences, University of California Los Angeles, USA
     year: 2021-2022
@@ -39,13 +42,16 @@ employment:
 #   - course: Antarctic Wildlife Health Working Group of the <a href="https://www.scar.org/science/eg-bamm/home" target="_blank" rel="noopener noreferrer">SCAR EG-BAMM</a>
 email: "amandine.gamble@gmail.com"
 organizations:
-- name: Lloyd-Smith Lab, Department of Ecology and Evolutionary Biology, University of California Los Angeles
-  url: "https://faculty.eeb.ucla.edu/lloydsmith/index.php"
-role: Postdoctoral Researcher &middot; Quantitative & Integrated Disease Ecology 
+- name: Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow
+  url: "https://www.gla.ac.uk/researchinstitutes/bahcm/"
+role: Research Fellow &middot; Quantitative & Integrated Disease Ecology 
 social:
 - icon: envelope
   icon_pack: fas
   link: mailto:amandine.gamble@gmail.com
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AmandineGamble
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=EVLEgcoAAAAJ&hl=en
@@ -71,8 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am interested in the processes underlying the circulation of infectious agents among hosts. As mechanisms occurring at different scales (through time, space and biological systems) interact together to drive epidemiological dynamics, my main research interest is in the development of methods allowing efficient data integration to identify and quantify these processes.
-
-During my PhD (supervised by <a href="https://thierryboulinier.wordpress.com/" target="_blank">Thierry Boulinier</a>, CEFE - CNRS/Montpellier University), I explored in which conditions and how serological data can be used to efficiently infer the underlying processes of infectious agent circulation and their effects on hosts in wild populations. For this, I combined observational and experimental data collected in various seabird-parasite systems with theoretical approaches. 
-
-My current research as postdoc in the <a href="https://faculty.eeb.ucla.edu/lloydsmith/index.php" target="_blank">Lloyd-Smith Lab</a> as part of the <a href="https://batonehealth.org/" target="_blank">BatOneHealth project</a> aims at designing quantitative methods to integrate data collected in the lab and in the field, at scales from molecules to communities, with the goal of developing biological insight and practical predictors of the epidemiological dynamics of bat-borne viruses. 
+I investigate what drives hosts’ contributions to pathogen dynamics across biological scales, from host-pathogen molecular interactions to host species interactions. To do so, I combine theoretical, observational, and experimental approaches, and consider various study systems in the lab such in the field, including emerging bat-borne viruses and their hosts, and bacterial pathogens of endangered seabirds. I collaborate with stakeholders to translate scientific outputs into sustainable, targeted solutions against pathogen threats, with the focus on ecological interventions. 

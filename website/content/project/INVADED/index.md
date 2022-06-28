@@ -38,7 +38,54 @@ This work builds upon the experience of our team in [disease ecology in colonial
 
 <img src="../../img/figures/INVADED_network.jpg" alt="Schematized epidemiological networks for Pasteurella multocida, Leptospira spp. and Toxoplasma gondii" style="width:800px;">
 
+<!-- Table with pictures -->
+<style>
+* { box-sizing: border-box; }
+.column17 { float: left; width: 17%; padding: 5px; }
+.column20 { float: left; width: 20%; padding: 5px; }
+.column25 { float: left; width: 25%; padding: 5px; }
+.column33 { float: left; width: 33%; padding: 5px; }
+.column50 { float: left; width: 50%; padding: 5px; }
+.column75 { float: left; width: 75%; padding: 5px; }
+/* Clearfix (clear floats) */
+.row::after { content: ""; clear: both; display: table; }
+</style>
+
+**Main Collaborators**
+
+<!--
+<div class="row">
+  <div class="column75">
+-->
+<ul>
+  <li><a href="https://thierryboulinier.wordpress.com/" target="_blank" rel="noopener noreferrer">Thierry Boulinier</a>, National Center for Scientific Research, France</li>
+  <li>Célia Lesage<a href="https://reserve-australes.taaf.fr/en" target="_blank" rel="noopener noreferrer">, National Nature Reserve of the French Southern Lands</a>, France</li>
+  <li><a href="https://www.mare-centre.pt/en/user/166" target="_blank" rel="noopener noreferrer">Paulo Catry</a>, Marine and Environmental Sciences Centre, Portugal</li>
+  <li><a href="https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/our-team/antje-steinfurth/" target="_blank" rel="noopener noreferrer">Antje Steinfurth</a>, Royal Society for the Protection of Birds, UK</li>
+</ul>  
+<!--
+  </div>
+  <div class="column25">
+  </div>
+</div>
+-->
+
+
 **Field Sites**
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Dm6sDAI7P907xWWHeu4iaRScgZ64asXY&ehbc=2E312F&ll=-32.70129659437712%2C41.4918227&z=2" width="720" height="480" frameborder="0" style="border:0"></iframe>
 <br><br>
+
+**Main Funders**
+
+<div class="row">
+  <div class="column33">
+    <a href="https://institut-polaire.fr/en/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/IPEV.png" alt="French Polar Institute"  style="width:150px;"></a>
+  </div>
+    <div class="column33">
+    <a href="https://www.biodiversa.org/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/Biodiversa.png" alt="Biodiversa"  style="width:150px;"></a>
+  </div>
+  <div class="column33">
+    <a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" target="_blank" rel="noopener noreferrer"><img src="../../img/logos/Royal_Society.png" alt="The Royal Society"  style="width:150px;"></a>
+  </div>
+</div>
