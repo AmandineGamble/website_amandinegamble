@@ -88,11 +88,11 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "amandine.gamble@gmail.com"
+email = "amandine.gamble@cornell.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "4000 Terasaki Life Sciences Building, 610 Charles E. Young Dr. South", city = "Los Angeles", region = "CA", postcode = "90095-7239", country = "United States", country_code = "US"}
+address = {street = "Graham Kerr Building, Office 314", city = "G12 8QQ Glasgow", region = "", postcode = "United Kingdom", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

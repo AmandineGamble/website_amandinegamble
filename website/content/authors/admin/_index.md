@@ -15,8 +15,11 @@ education:
     year: 2015
 employment:
   courses:
+  - course: Visiting Scientist
+    institution: Department of Public and Ecosystem Health, Cornell University, USA
+    year: 2022-2024
   - course: Research Fellow
-    institution: Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow, UK
+    institution: School of Biodiversity, One Health and Veterinary Medicine, University of Glasgow, UK
     year: 2022-2024
   - course: Collaboratory Fellow
     institution: Institute for Computational and Quantitative Biosciences, University of California Los Angeles, USA
@@ -40,15 +43,17 @@ employment:
 #   courses:
 #   - course: <a href="batonehealth.org" target="_blank" rel="noopener noreferrer">BatOneHealth</a>
 #   - course: Antarctic Wildlife Health Working Group of the <a href="https://www.scar.org/science/eg-bamm/home" target="_blank" rel="noopener noreferrer">SCAR EG-BAMM</a>
-email: "amandine.gamble@gmail.com"
+email: "amandine.gamble@cornell.edu"
 organizations:
-- name: Institute of Biodiversity, Animal Health and Comparative Medicine, University of Glasgow
-  url: "https://www.gla.ac.uk/researchinstitutes/bahcm/"
-role: Research Fellow &middot; Quantitative & Integrated Disease Ecology 
+- name: School of Biodiversity, One Health and Veterinary Medicine, University of Glasgow
+  url: "https://www.gla.ac.uk/schools/bohvm/"
+- name: Department of Public and Ecosystem Health, Cornell University
+  url: "https://www.vet.cornell.edu/departments/public-ecosystem-health"
+role: Quantitative & Integrated Disease Ecology 
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:amandine.gamble@gmail.com
+  link: mailto:amandine.gamble@cornell.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/AmandineGamble
@@ -62,14 +67,15 @@ social:
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Amandine_Gamble
 - icon: publons
+# clarivate https://jpswalsh.github.io/academicons/
   icon_pack: ai
-  link: https://publons.com/researcher/3123200/amandine-gamble/
+  link: https://www.webofscience.com/wos/author/record/HLP-7835-2023
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AmandineGamble
 - icon: cv
   icon_pack: ai
-  link: files/cv/Gamble_CV.pdf
+  link: https://drive.google.com/file/d/1K4ZOYLMOvmXTlAAEZ_lmYsMTBf-0Sj9j
 superuser: true
 title: Amandine Gamble
 user_groups:
@@ -77,4 +83,4 @@ user_groups:
 - Visitors
 ---
 
-I investigate what drives hosts’ contributions to pathogen dynamics across biological scales, from host-pathogen molecular interactions to host species interactions. To do so, I combine theoretical, observational, and experimental approaches, and consider various study systems in the lab such in the field, including emerging bat-borne viruses and their hosts, and bacterial pathogens of endangered seabirds. I collaborate with stakeholders to translate scientific outputs into sustainable, targeted solutions against pathogen threats, with the focus on ecological interventions. 
+I investigate what drives hosts’ contributions to pathogen dynamics across biological scales, from host-pathogen molecular interactions to host species interactions. To do so, I combine theoretical, observational, and experimental approaches, and consider various study systems in the lab and in the field, including emerging bat-borne viruses and their hosts, and bacterial pathogens of endangered seabirds. I collaborate with stakeholders to translate scientific outputs into sustainable, targeted solutions against pathogen threats, with the focus on ecological interventions. 

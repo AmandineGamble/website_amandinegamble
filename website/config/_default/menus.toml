@@ -21,6 +21,11 @@
 [[main]]
   name = "Projects"
   url = "project_landing"
+  weight = 50
+  
+[[main]]
+  name = "Opportunities"
+  url = "opportunities_landing"
   weight = 60
 
 [[main]]
